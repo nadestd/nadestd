@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nadestd
+- 👋 Hi, I’m Nadia Resti Kusniati
 - 👀 I’m interested in web programming developer
 - 🌱 I’m currently learning html, css, javascript, sql, php
 - 💞️ I’m looking to collaborate on senior web programming developer 
